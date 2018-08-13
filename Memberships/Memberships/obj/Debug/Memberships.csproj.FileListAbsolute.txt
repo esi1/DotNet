@@ -1,0 +1,690 @@
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\roslyn\csc.exe
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\roslyn\System.Collections.Immutable.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\roslyn\vbc.exe
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe.config
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Memberships.dll.config
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Memberships.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Memberships.pdb
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Antlr3.Runtime.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\EntityFramework.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\EntityFramework.SqlServer.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Web.Infrastructure.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Newtonsoft.Json.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Owin.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.Helpers.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.Mvc.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.Optimization.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.Razor.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.WebPages.Deployment.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.WebPages.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.WebPages.Razor.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\WebGrease.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.Helpers.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.Mvc.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.Optimization.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.Razor.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.WebPages.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.WebPages.Deployment.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\System.Web.WebPages.Razor.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Antlr3.Runtime.pdb
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Newtonsoft.Json.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\EntityFramework.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\EntityFramework.SqlServer.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\obj\Debug\Memberships.csprojResolveAssemblyReference.cache
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\obj\Debug\Memberships.dll
+c:\users\esi\documents\visual studio 2015\Projects\Memberships\Memberships\obj\Debug\Memberships.pdb
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\roslyn\csc.exe
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\roslyn\vbc.exe
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Memberships.dll.config
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Memberships.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Memberships.pdb
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Antlr3.Runtime.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\EntityFramework.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\EntityFramework.SqlServer.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Newtonsoft.Json.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Owin.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.Helpers.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.Mvc.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.Optimization.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.Razor.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.WebPages.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.WebPages.Razor.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\WebGrease.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.Helpers.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.Mvc.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.Optimization.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.Razor.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.WebPages.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\System.Web.WebPages.Razor.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Antlr3.Runtime.pdb
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Newtonsoft.Json.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\EntityFramework.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\EntityFramework.SqlServer.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\obj\Debug\Memberships.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\obj\Debug\Memberships.dll
+C:\Users\Studerande\Downloads\MVC\Memberships\Memberships\obj\Debug\Memberships.pdb
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\roslyn\csc.exe
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\roslyn\vbc.exe
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Memberships.dll.config
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Memberships.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Memberships.pdb
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Antlr3.Runtime.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\EntityFramework.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\EntityFramework.SqlServer.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Newtonsoft.Json.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Owin.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.Helpers.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.Mvc.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.Optimization.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.Razor.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.WebPages.Deployment.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.WebPages.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.WebPages.Razor.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\WebGrease.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.Helpers.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.Mvc.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.Optimization.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.Razor.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.WebPages.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.WebPages.Deployment.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\System.Web.WebPages.Razor.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Antlr3.Runtime.pdb
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Newtonsoft.Json.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\EntityFramework.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\EntityFramework.SqlServer.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\obj\Debug\Memberships.csprojResolveAssemblyReference.cache
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\obj\Debug\Memberships.dll
+C:\Users\esi\Downloads\MVC\Memberships\Memberships\obj\Debug\Memberships.pdb
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\roslyn\csc.exe
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\roslyn\vbc.exe
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Memberships.dll.config
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Memberships.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Memberships.pdb
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Antlr3.Runtime.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\EntityFramework.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\EntityFramework.SqlServer.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Newtonsoft.Json.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Owin.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.Helpers.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.Mvc.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.Optimization.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.Razor.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.WebPages.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.WebPages.Razor.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\WebGrease.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.Helpers.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.Mvc.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.Optimization.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.Razor.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.WebPages.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\System.Web.WebPages.Razor.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Antlr3.Runtime.pdb
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Newtonsoft.Json.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\EntityFramework.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\EntityFramework.SqlServer.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\obj\Debug\Memberships.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\obj\Debug\Memberships.dll
+C:\Users\Studerande\Downloads\MVC\MVc-2016-04-25\Memberships\Memberships\obj\Debug\Memberships.pdb
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\roslyn\csc.exe
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\roslyn\vbc.exe
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Memberships.dll.config
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Memberships.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Memberships.pdb
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Antlr3.Runtime.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\EntityFramework.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\EntityFramework.SqlServer.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Newtonsoft.Json.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Owin.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.Helpers.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.Mvc.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.Optimization.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.Razor.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.WebPages.Deployment.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.WebPages.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.WebPages.Razor.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\WebGrease.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.Helpers.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.Mvc.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.Optimization.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.Razor.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.WebPages.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.WebPages.Deployment.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\System.Web.WebPages.Razor.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Antlr3.Runtime.pdb
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Newtonsoft.Json.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\EntityFramework.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\EntityFramework.SqlServer.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\obj\Debug\Memberships.csprojResolveAssemblyReference.cache
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\obj\Debug\Memberships.dll
+C:\Users\esi\Downloads\MVC\sen\Memberships\Memberships\obj\Debug\Memberships.pdb
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\roslyn\csc.exe
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\roslyn\vbc.exe
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Memberships.dll.config
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Memberships.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Memberships.pdb
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Antlr3.Runtime.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\EntityFramework.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\EntityFramework.SqlServer.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Newtonsoft.Json.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Owin.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.Helpers.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.Mvc.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.Optimization.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.Razor.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.WebPages.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.WebPages.Razor.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\WebGrease.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.Helpers.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.Mvc.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.Optimization.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.Razor.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.WebPages.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\System.Web.WebPages.Razor.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Antlr3.Runtime.pdb
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Newtonsoft.Json.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\EntityFramework.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\EntityFramework.SqlServer.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\obj\Debug\Memberships.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\obj\Debug\Memberships.dll
+C:\Users\Studerande\Downloads\MVC\senast\Memberships\Memberships\obj\Debug\Memberships.pdb
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\roslyn\csc.exe
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\roslyn\vbc.exe
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Memberships.dll.config
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Memberships.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Memberships.pdb
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Antlr3.Runtime.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\EntityFramework.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\EntityFramework.SqlServer.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Newtonsoft.Json.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Owin.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.Helpers.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.Mvc.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.Optimization.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.Razor.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.WebPages.Deployment.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.WebPages.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.WebPages.Razor.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\WebGrease.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.Helpers.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.Mvc.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.Optimization.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.Razor.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.WebPages.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.WebPages.Deployment.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\System.Web.WebPages.Razor.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Antlr3.Runtime.pdb
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Newtonsoft.Json.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\EntityFramework.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\EntityFramework.SqlServer.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\obj\Debug\Memberships.csprojResolveAssemblyReference.cache
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\obj\Debug\Memberships.dll
+C:\Users\esi\Downloads\MVC\2016-27\Memberships\Memberships\obj\Debug\Memberships.pdb
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\roslyn\csc.exe
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\roslyn\vbc.exe
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Memberships.dll.config
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Memberships.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Memberships.pdb
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Antlr3.Runtime.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\EntityFramework.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\EntityFramework.SqlServer.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Newtonsoft.Json.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Owin.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.Helpers.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.Mvc.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.Optimization.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.Razor.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.WebPages.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.WebPages.Razor.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\WebGrease.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.Helpers.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.Mvc.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.Optimization.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.Razor.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.WebPages.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\System.Web.WebPages.Razor.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Antlr3.Runtime.pdb
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Newtonsoft.Json.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\EntityFramework.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\EntityFramework.SqlServer.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\obj\Debug\Memberships.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\obj\Debug\Memberships.dll
+C:\Users\Studerande\Downloads\MVC\2016-05-02\Memberships\Memberships\obj\Debug\Memberships.pdb
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\roslyn\csc.exe
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\roslyn\vbc.exe
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Memberships.dll.config
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Memberships.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Memberships.pdb
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Antlr3.Runtime.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\EntityFramework.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\EntityFramework.SqlServer.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Newtonsoft.Json.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Owin.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.Helpers.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.Mvc.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.Optimization.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.Razor.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.WebPages.Deployment.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.WebPages.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.WebPages.Razor.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\WebGrease.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.Helpers.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.Mvc.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.Optimization.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.Razor.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.WebPages.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.WebPages.Deployment.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\System.Web.WebPages.Razor.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Antlr3.Runtime.pdb
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Newtonsoft.Json.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\EntityFramework.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\EntityFramework.SqlServer.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\obj\Debug\Memberships.csprojResolveAssemblyReference.cache
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\obj\Debug\Memberships.dll
+C:\Users\esi\Downloads\MVC\2016-05-02\05\Memberships\Memberships\obj\Debug\Memberships.pdb
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\roslyn\csc.exe
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\roslyn\vbc.exe
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Memberships.dll.config
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Memberships.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Memberships.pdb
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Antlr3.Runtime.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\EntityFramework.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\EntityFramework.SqlServer.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Newtonsoft.Json.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Owin.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.Helpers.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.Mvc.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.Optimization.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.Razor.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.WebPages.Deployment.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.WebPages.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.WebPages.Razor.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\WebGrease.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.Helpers.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.Mvc.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.Optimization.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.Razor.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.WebPages.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.WebPages.Deployment.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\System.Web.WebPages.Razor.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Antlr3.Runtime.pdb
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Newtonsoft.Json.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\EntityFramework.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\EntityFramework.SqlServer.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\obj\Debug\Memberships.csprojResolveAssemblyReference.cache
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\obj\Debug\Memberships.dll
+C:\Users\esi\Downloads\downlod-new\git-project\Memberships-orginal\Memberships\Memberships\obj\Debug\Memberships.pdb

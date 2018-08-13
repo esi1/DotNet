@@ -1,0 +1,14 @@
+C:\Users\esi\Source\Workspaces\VideoRental\VideoRental\Business Layer\bin\Debug\BusinessLayer.dll
+C:\Users\esi\Source\Workspaces\VideoRental\VideoRental\Business Layer\bin\Debug\BusinessLayer.pdb
+C:\Users\esi\Source\Workspaces\VideoRental\VideoRental\Business Layer\bin\Debug\DataLayer.dll
+C:\Users\esi\Source\Workspaces\VideoRental\VideoRental\Business Layer\bin\Debug\DataLayer.pdb
+C:\Users\esi\Source\Workspaces\VideoRental\VideoRental\Business Layer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\esi\Source\Workspaces\VideoRental\VideoRental\Business Layer\obj\Debug\BusinessLayer.dll
+C:\Users\esi\Source\Workspaces\VideoRental\VideoRental\Business Layer\obj\Debug\BusinessLayer.pdb
+C:\Users\esi\Downloads\downlod-new\git-project\C-sharp-master\VideoRental\Business Layer\bin\Debug\BusinessLayer.dll
+C:\Users\esi\Downloads\downlod-new\git-project\C-sharp-master\VideoRental\Business Layer\bin\Debug\BusinessLayer.pdb
+C:\Users\esi\Downloads\downlod-new\git-project\C-sharp-master\VideoRental\Business Layer\bin\Debug\DataLayer.dll
+C:\Users\esi\Downloads\downlod-new\git-project\C-sharp-master\VideoRental\Business Layer\bin\Debug\DataLayer.pdb
+C:\Users\esi\Downloads\downlod-new\git-project\C-sharp-master\VideoRental\Business Layer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\esi\Downloads\downlod-new\git-project\C-sharp-master\VideoRental\Business Layer\obj\Debug\BusinessLayer.dll
+C:\Users\esi\Downloads\downlod-new\git-project\C-sharp-master\VideoRental\Business Layer\obj\Debug\BusinessLayer.pdb
